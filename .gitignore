@@ -3,6 +3,13 @@ BCCC-CIC-CSE-IDS2018
 .venv/
 .ipynb_checkpoints/
 service.ipynb
+edge_data
 
 .DS_Store
 Thumbs.db
+
+mergedDatasets
+
+pictures
+
+
