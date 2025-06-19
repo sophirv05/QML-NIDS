@@ -1,7 +1,7 @@
 # Quantum Network Intrusion Detection Using Topological Data Analysis
 Repo containing all material for Mary Cotrupi and Brian Callahan's Summer 2025 research (RPI)
 
-### NOTES:
+## NOTES:
 I have lots of files of me testing different methods and pipelies and going down different routes (mostly found in the "scrap" folder). The main approach I decided to focus on is in "QKERNEL.ipynb", a QuASK-based QML kernel implementation. Using this, I can give the model a "benign" dataset with selected features and an "attack" dataset, which it then breaks up into traning and testing sets and applies quantum logic via the quask kernel implementation (slightly modified for syntax changes & Quantum One backend).  
 Thus, the overall idea is that we can build a quantum-enhanced model (quantum kernels may be more efficient than their classical counterparts for big data) that can be trained on existing network intrusion data, and, once sufficiently trained, we/companies/businesses/IT sectors can employ the model to detect sophisticated attacks in networks. 
   
