@@ -1,4 +1,4 @@
-# Quantum Network Intrusion Detection Using Topological Data Analysis
+# Quantum machine learning kernel methods for network intrusion detection: a NISQ application
 Repo containing all material for Mary Cotrupi and Brian Callahan's Summer 2025 research (RPI)
 
 ## Overview (as of 7/7):
